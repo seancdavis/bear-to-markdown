@@ -2,6 +2,8 @@
 
 Export notes within the [Bear](https://bear.app/) application's local database to markdown files.
 
+![Export Bear Notes to Markdown Files](https://seancdavis.imgix.net/posts/210616/orange--bear-to-markdown.png?ixlib=js-3.6.0&auto=format%2Ccompress&w=1664&s=bb71b2b9da2a316dc2de88ea3c2580b6)
+
 This project is the output of [this tutorial](https://www.seancdavis.com/posts/export-bear-notes-markdown-files/), which walks through the process of building a Bear exporting tool.
 
 ## How it Works
