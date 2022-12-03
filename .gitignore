@@ -1,3 +1,9 @@
-node_modules
+# Temp database copied for reading (without interfering with application db)
 database.sqlite
+
+# Other temp files
 tmp/
+
+# Dependendies
+node_modules/
+
